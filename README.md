@@ -1,1 +1,1 @@
-# my-first-jave-project
+# my-first-java-project
